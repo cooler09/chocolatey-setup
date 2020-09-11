@@ -3,6 +3,7 @@
 #
 # If you find that you already have any of these dependencies installed you can just delete the line or comment them out.
 
+cinst googlechrome -y
 cinst nodejs -y
 cinst vscode -y
 cinst git -y
